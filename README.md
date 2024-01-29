@@ -1,4 +1,5 @@
 A deep learning model that classifies images of cats and dogs using transfer learning with InceptionResNetV2. The project used TensorFlow and Keras for model development. 
+
 Steps:
 1) Data Augmentation: Data augmentation techniques are applied to the training set to enhance model generalization. Augmentation includes rotation, width and height shifting, preprocessing, shear, zoom, and horizontal flip.
 
